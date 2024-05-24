@@ -1,0 +1,6 @@
+{
+	"extends": "@gpssat/ts-config/react.json",
+	"include": [
+		"src"
+	],
+}

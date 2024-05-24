@@ -1,0 +1,6 @@
+{
+	"extends": "@gpssat/ts-config/base.json",
+	"include": [
+		"src"
+	],
+}
